@@ -13,4 +13,4 @@ jobs:
           host: ${{ secrets.HOST }}
           user: ${{ secrets.USER }}
           password: ${{ secrets.PASS }}
-          localDir: "/home/mocatech1/"
+          localDir: "public_html/"
